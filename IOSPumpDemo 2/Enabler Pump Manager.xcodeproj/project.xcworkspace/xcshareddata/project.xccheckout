@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C445C775-877F-4DA0-A24A-F391AC8F0827</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D44C7C46817BACDFC81F64991FDB46498CAEE89E</key>
+		<string>http://code/Enabler/Samples/IOS-PumpDemo-2</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IOSPumpDemo 2/Enabler Pump Manager.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D44C7C46817BACDFC81F64991FDB46498CAEE89E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://code/Enabler/Samples/IOS-PumpDemo-2</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D44C7C46817BACDFC81F64991FDB46498CAEE89E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D44C7C46817BACDFC81F64991FDB46498CAEE89E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IOS-PumpDemo-2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
